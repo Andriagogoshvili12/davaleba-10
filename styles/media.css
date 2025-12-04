@@ -1,0 +1,45 @@
+@media only screen and (max-width: 1031px){
+    .Head{
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start;
+    }
+
+    .Ptext{
+        font-size: 50px;
+    }
+
+    .Ptext2{
+        margin-left: 400px;
+    }
+    
+    .sec2{
+        margin-left: 10px;
+    }
+
+    .sec3{
+        -webkit-box-pack: start;
+            -ms-flex-pack: start;
+                justify-content: flex-start;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+    }
+
+    .sec3 div{
+        margin-left: 100px;
+    }
+
+
+}
+
+@media only screen and (max-width: 983px){
+    .sec3{
+        -webkit-box-pack: end;
+            -ms-flex-pack: end;
+                justify-content: flex-end;
+
+    }
+    .sec2{
+        margin-left: 10px;
+    }
+}

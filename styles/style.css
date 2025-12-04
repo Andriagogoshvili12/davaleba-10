@@ -1,0 +1,118 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
+.Head{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -ms-flex-pack: end;
+    justify-content: flex-end;
+    vertical-align: middle;
+}
+
+h1{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 33px;
+    margin-bottom: 31px;
+    vertical-align: middle;
+}
+
+.Ptext{
+    font-family: Helvetica;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 79px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+
+
+    position: absolute;
+    margin-top: 303px;
+    margin-left: 410px;
+}
+
+.Ptext2{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 19px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: white;
+
+    position: absolute;
+    margin-top: 380px;
+    margin-left: 530px;
+}
+
+h4{ 
+    font-family: Helvetica;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 17px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #636060;
+}
+
+h5{
+    font-family: Helvetica;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 22px;
+    line-height: 100%;
+    letter-spacing: 0%;
+}
+
+h6{
+   font-family: Helvetica;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 100%;
+    letter-spacing: 0%;
+
+    color: #636060;
+}
+
+.sec{
+    margin-left: 100px;
+    margin-top: 84px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.sec2{
+    display: inline-block;
+    margin-left: 100px;
+}
+
+.sec3{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+}
+.sec3 div{
+    margin-left: 30px;
+    margin-top: 10px;
+}
